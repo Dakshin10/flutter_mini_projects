@@ -78,9 +78,9 @@ This project demonstrates:
 ### 📱 Screenshots
 
 <div align="center">
-  <img src="assets/images/dice-1.png" width="200" alt="Dice showing 1">
-  <img src="assets/images/dice-3.png" width="200" alt="Dice showing 3">
-  <img src="assets/images/dice-6.png" width="200" alt="Dice showing 6">
+  <img src="Screenshots/image1.png" width="200" alt="Dice showing 2">
+  <img src="Screenshots/image2.png" width="200" alt="Dice showing 4">
+  <img src="Screenshots/image3.png" width="200" alt="Dice showing 6">
 </div>
 
 > **Note**: Screenshots showcase the app running on different dice states. The actual dice faces change randomly with each tap.
