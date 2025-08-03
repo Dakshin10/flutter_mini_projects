@@ -332,26 +332,6 @@ test/
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-### How to Contribute
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. **Push** to the branch (`git push origin feature/amazing-feature`)
-5. **Open** a Pull Request
-
-### Code Style
-
-- Follow [Dart Style Guide](https://dart.dev/guides/language/effective-dart/style)
-- Use meaningful variable and function names
-- Add comments for complex logic
-- Ensure all tests pass before submitting
-
----
 
 ## 📄 License
 
