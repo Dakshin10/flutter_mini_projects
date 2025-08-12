@@ -5,9 +5,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI">
   <br>
-  <img src="https://img.shields.io/github/license/Dakshin10/flutter_mini_projects" alt="License">
-  <img src="https://img.shields.io/github/stars/Dakshin10/flutter_mini_projects" alt="Stars">
-  <img src="https://img.shields.io/github/forks/Dakshin10/flutter_mini_projects" alt="Forks">
+  
 </div>
 
 <p align="center">
