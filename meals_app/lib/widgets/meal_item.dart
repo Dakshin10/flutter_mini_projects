@@ -9,7 +9,7 @@ class MealItem extends StatelessWidget {
   final Meal meal;
   final void Function(Meal meal) onSelectMeal;
 
-  String get ComplexityText {
+  String get complexityText {
     return meal.complexity.name[0].toUpperCase() +
         meal.complexity.name.substring(1).toLowerCase();
   }
@@ -24,7 +24,7 @@ class MealItem extends StatelessWidget {
     return Card(
       margin: const EdgeInsets.all(8),
       shape: RoundedRectangleBorder(
-        borderRadius: BorderRadiusGeometry.circular(8),
+        borderRadius: BorderRadius.circular(8),
       ),
       clipBehavior: Clip.hardEdge,
       elevation: 2,
@@ -74,7 +74,7 @@ class MealItem extends StatelessWidget {
                           label: '${meal.duration} min',
                         ),
                         const SizedBox(width: 12),
-                        MealItemTrait(icon: Icons.work, label: ComplexityText),
+                        MealItemTrait(icon: Icons.work, label: complexityText),
                         const SizedBox(width: 12),
                         MealItemTrait(
                           icon: Icons.attach_money,
