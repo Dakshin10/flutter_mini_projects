@@ -16,7 +16,8 @@ class Meal {
     required this.isGlutenFree,
     required this.isLactoseFree,
     required this.isVegan,
-    required this.isVegetarian,value
+    required this.isVegetarian,
+    value,
   });
 
   final String id;
